@@ -32,10 +32,6 @@ img.lado {
     float: right;
 }
 
-img.left {
-    float: left;
-}
-
 a {
     text-decoration: none;
     font-weight: bold;
